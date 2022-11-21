@@ -386,7 +386,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("or", "یا"),
         ("Continue with", "ادامه با"),
         ("Zoom cursor", ""),
-        ("Accept sessions via password", ""),
+        ("Accept sessions via password", "قبول درخواست با رمز عبور"),
         ("Accept sessions via click", ""),
         ("Accept sessions via both", ""),
         ("Please wait for the remote side to accept your session request...", ""),
